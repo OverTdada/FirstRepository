@@ -1,0 +1,5 @@
+E:\MaHao\项目\C_长客培训\源码\WebApplication\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\MaHao\项目\C_长客培训\源码\WebApplication\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\MaHao\项目\C_长客培训\源码\WebApplication\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+E:\MaHao\项目\C_长客培训\源码\WebApplication\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\MaHao\项目\C_长客培训\源码\WebApplication\UnitTestProject\obj\Debug\UnitTestProject.pdb
